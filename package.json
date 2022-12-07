@@ -16,7 +16,7 @@
   "author": "Tchaikousky",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-es6-template-engine": "^2.2.1",
     "pg-promise": "^10.4.4"
   }
